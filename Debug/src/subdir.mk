@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../src/BeyondHebb.cpp 
+../src/BeyondHebb2.cpp 
 
 OBJS += \
-./src/BeyondHebb.o 
+./src/BeyondHebb2.o 
 
 CPP_DEPS += \
-./src/BeyondHebb.d 
+./src/BeyondHebb2.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
